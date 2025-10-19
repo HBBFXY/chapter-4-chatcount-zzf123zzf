@@ -43,4 +43,4 @@ def main():
     print(f"其他字符: {others}")
 
 if __name__ == "__main__":
-    main()文件用于编写代码
+    main()
